@@ -3,28 +3,15 @@
   "version": "1.8.4",
   "description": "Use tomorrow's CSS syntax, today",
   "keywords": [
-    "css",
-    "w3c",
-    "cssnext",
-    "preprocessor",
-    "postprocessor",
-    "rework",
     "postcss",
     "postcss-plugin",
-    "autoprefixer",
-    "babel",
-    "transpiler"
+    "css",
+    "w3c"
   ],
   "author": "Maxime Thirouin",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cssnext/cssnext.git"
-  },
+  "repository": "https://github.com/cssnext/cssnext.git",
   "homepage": "http://cssnext.io/",
-  "bugs": {
-    "url": "https://github.com/cssnext/cssnext/issues"
-  },
   "main": "dist/index.js",
   "bin": {
     "cssnext": "dist/bin.js"
